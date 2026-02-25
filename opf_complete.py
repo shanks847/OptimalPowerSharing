@@ -10,8 +10,7 @@ References:
   [3] Li, Liu, Wang, Low, Mei. IEEE Trans. Power Syst., 2018.
   [4] Gan & Low. IEEE Trans. Power Syst., 2014.
 
-Author: Shankar Ramharack & Aaron Alves (FYP 2025/2026, ECNG 3020)
-Supervisor: Dr. Arvind Singh
+Author: Shankar Ramharack, MIEEE
 """
 
 import numpy as np
